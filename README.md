@@ -1,11 +1,22 @@
 
-## Oiii! Eu sou a Laryssa :)
+## Hi 👋
 
+I'm Laryssa, a Software Engineer from Brazil.
 
- <div>
+More about me:
+- 💜 I’m currently working at [Invillia - PagSeguro](https://invillia.com/global-growth-framework/) as Java Back-end Developer.
+- :school: I'm a Computer Engineer student in Cefet-RJ and Information System in PUC-Minas
+- :email: Send me an [e-mail](mailto:se.laryssa@gmail.com) or a DM on [Linkedin](https://www.linkedin.com/in/laryssa-serra/) if you want to contact me.
+<br/>
+
+  
+ <div align="center">
   <a href="https://github.com/laryssa-serra">
-  <img height="180em" width=100% src="https://github-readme-stats.vercel.app/api?username=laryssa-serra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&include_all_pullrequests=true"/>
-<!--   <img height="180em"  width=450px src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryssa-serra&layout=compact&langs_count=7&theme=dracula"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laryssa-serra&show_icons=true&layout=compact&bg_color=ffffff&text_color=333333&include_all_commits=true&count_private=true"/>
+
+<!--    <summary>:zap: Languages Used</summary> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryssa-serra&layout=compact&langs_count=8&bg_color=ffffff&text_color=333333">
+<br/>
 </div>
  
 <div style="display: inline_block"><br>
