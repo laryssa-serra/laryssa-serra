@@ -5,8 +5,8 @@ I'm Laryssa, a Software Engineer from Brazil.
 
 More about me:
 - 💜 I’m currently working at [Invillia - PagSeguro](https://invillia.com/global-growth-framework/) as Java Back-end Developer.
-- :school: I'm a Computer Engineer student in Cefet-RJ and Information System in PUC-Minas
-- :email: Send me an [e-mail](mailto:se.laryssa@gmail.com) or a DM on [Linkedin](https://www.linkedin.com/in/laryssa-serra/) if you want to contact me.
+- :school: I'm a Computer Engineer student at Cefet-RJ and Information Systems at PUC-Minas
+- :email: Send me [e-mail](mailto:se.laryssa@gmail.com) or DM on [Linkedin](https://www.linkedin.com/in/laryssa-serra/) if you want to contact me.
 <br/>
 
   
